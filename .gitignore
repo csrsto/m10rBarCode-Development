@@ -1,0 +1,5 @@
+*.bak
+/dist/
+.DS_Store
+/build/
+*.jasper
